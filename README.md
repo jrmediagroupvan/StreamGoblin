@@ -17,6 +17,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="/images/promo.png" alt="StreamGoblin banner" width="100%">
+</p>
+---
 
 ## What is StreamGoblin?
 
