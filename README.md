@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/banner.png" alt="StreamGoblin banner" width="100%">
+  <img src="/images/banner.png" alt="StreamGoblin banner" width="100%">
 </p>
 
 <h1 align="center">StreamGoblin</h1>
